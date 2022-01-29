@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &HaoyangLi15
+  username               : 
 facebook:
   username               : 
   app_id                 :
@@ -99,10 +99,10 @@ author:
   github           : "leihouyeung"
   google_plus      :
   keybase          :
-  instagram        :"https://www.instagram.com/leihouyeung/"
+  instagram        : "https://www.instagram.com/leihouyeung/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/haoyang-li-189a1a1a0/"
+  linkedin         : "https://www.linkedin.com/in/haoyang-li-189a1a1a0/"
   orcid            :
   pinterest        :
   soundcloud       :
