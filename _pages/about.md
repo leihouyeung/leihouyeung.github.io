@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Greetings, I'm Haoyang Li (Lei Hou Yeung, 李昊阳)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,111 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a computer science Ph.D. student at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) under the supervision of [Prof. Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao). 
 
-A data-driven personal website
+I am broadly interested in developing computational algorithms and models (especially machine learning methods) to address biological and healthcare problems. My recent research focuses on medical image analysis, single-cell genomics and spatial transcriptomic.
+
+Address: 4216-WS22, Level 4, Building 3, KAUST, Thuwal, KSA
+
+Email: haoyang[dot]li[AT]kaust[dot]edu[dot]sa
+
+Biography
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gyvc9v5q2mj30dw0bvq3f.jpg" align="left" alt="kaust" style="zoom:35%;" /> 
 
-Getting started
+Ph.D. student of computer science at *KAUST (Aug 2021 -- Present)* 
+
+​	Supervised by [Prof. Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao)
+
+
+
+<br>
+
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gyvwc4r4ikj30qk0j6taw.jpg" align="left" alt="jlu_logo" style="zoom:18%;" /> 
+
+M.Sc. of computer science at *Jilin Unversity (Aug 2018 -- Jun 2021)* 
+
+​				&nbsp;Supervised by [Prof. Ying Xu](http://csbl.bmb.uga.edu/~xyn/)
+
+B.E. of software engineering at *Jilin University (Aug 2014 -- Jun 2018)*
+
+
+
+<br>
+
+Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Research intern at *Deepwise AI lab (Sep 2020 -- Nov 2020)*
+* Visiting student at *KAUST (Aug 2019 -- Mar 2020)*
+  - Supervised by [Prof. Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<br>
 
-**Markdown generator**
+Publications ( + equal contribution)
+======
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+6. **Haoyang Li**, Juexiao Zhou, Yi Zhou, Qiang Chen, Yangyang She, Feng Gao, Ying Xu, Jieyu Chen, Xin Gao. [An Interpretable Computer-Aided Diagnosis Method for Periodontitis From Panoramic Radiographs](https://www.frontiersin.org/articles/10.3389/fphys.2021.655556/full). *Frontiers in Physiology*. 2021
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+5. Longxi Zhou, Zhongxiao Li, Juexiao Zhou<sup>+</sup>, **Haoyang Li<sup>+</sup>**, Yupeng Chen, Yuxin Huang, Dexuan Xie, Lintao Zhao, Ming Fan, Shahrukh Hashmi, Faisal Abdelkareem, Riham Eiada, Xigang Xiao, Lihua Li, Zhaowen Qiu, Xin Gao. [A rapid, accurate and machine-agnostic segmentation and quantification method for CT-based COVID-19 diagnosis](https://ieeexplore.ieee.org/abstract/document/9115057/). *IEEE transactions on medical imaging*. 2020
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+4. **Haoyang Li**, Juexiao Zhou, Yi Zhou, Jieyu Chen, Feng Gao, Ying Xu, Xin Gao. [Automatic and interpretable model for periodontitis diagnosis in panoramic radiographs](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_44). *MICCAI 2020*. (Oral)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+3. **Haoyang Li<sup>+</sup>**, Shuye Tian<sup>+</sup>, Yu Li<sup>+</sup>, Qiming Fang, Renbo Tan, Yijie Pan, Chao Huang, Ying Xu, Xin Gao. [Modern deep learning in bioinformatics](https://academic.oup.com/jmcb/article-abstract/12/11/823/5861537). *Journal of molecular cell biology*. 2020
+
+2. **Haoyang Li**, Juexiao Zhou, Huiyan Sun, Zhaowen Qiu, Xin Gao, Ying Xu. [CaMeRe: A Novel Tool for Inference of Cancer Metabolic Reprogramming](https://www.frontiersin.org/articles/10.3389/fonc.2020.00207/full). *Frontiers in oncology*. 2020
+
+1. Renbo Tan<sup>+</sup>, **Haoyang Li<sup>+</sup>**, Zhenyu Huang, Yi Zhou, Mingxin Tao, Xin Gao, Ying Xu. [Neural functions play different roles in Triple Negative Breast Cancer (TNBC) and non-TNBC](https://www.nature.com/articles/s41598-020-60030-5). *Scientific reports*. 2020
+
+<br>
+
+Activity
+======
+
+1. **Haoyang Li**, Juexiao Zhou , Xin Gao. Deetal-Perio: DEEp denTAL Advisor for Periodontitis Diagnosis based on Two-step Segmentation of Teeth and Gingiva with Lower-dimensional Features. ***Poster**.* *DigitalHealth, KAUST*, 2020.
+2. **Haoyang Li**, Juexiao Zhou, Huiyan Sun, Zhaowen Qiu, Xin Gao, Ying Xu. CaMeRe: A novel tool for inference of cancer metabolic reprogramming. ***Poster**. Advance In Artificial Intelligence, KAUST,* 2019.
+
+<br>
+
+Academic Service
+======
+
+* Reviewer for Bioinformatics, NeurIPS, AAAI, UAI, MICCAI, ICONIP
+
+* Organizing Committee for *International Workshop on Cancer Systems Biology (ICSB 2018, 2019, 2021)*
+
+* Organizer for *CCF DragonStar Summer Course (2018, 2019, 2021)* 
+
+  <br>
+
+Awards
+======
+
+* In 2021:
+  - Full scholarship for Ph.D. at KAUST
+  - Top ten graduate students of JLU (the highest honor for graduate student in JLU, 10/7000, ranked third in the ten selected students) [[official report](https://mp.weixin.qq.com/s/P8iXcHuXzgHg6IEsaO5U4g)]
+  - Outstanding graduate student from JLU
+* In 2020 
+  - Scholarship from China Aerospace Science and Technology Corporation (CASC) 
+  - National Scholarship of Ministry of Education
+  - Outstanding student of JLU
+  - First-class Scholarship of JLU
+  - Academic performance scholarship of JLU
+* In 2019
+  - Second-class Scholarship of JLU
+  - Academic performance scholarship of JLU
+* In 2018
+  - Freshman scholarship of JLU
+  - Academic performance scholarship of JLU
+* In 2017
+  - Recommended for admission eligibility.
+* In 2016
+  - Outstanding student of JLU
+  - Second-class scholarship of JLU
+  - Second prize of mathematical modeling contest of China
+* In 2015
+  - Outstanding student of JLU
+  - First-class scholarship of JLU
+
+<br>
