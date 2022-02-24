@@ -53,17 +53,19 @@ Experience
 Publications ( + equal contribution)
 ======
 
-6. **Haoyang Li**, Juexiao Zhou, Yi Zhou, Qiang Chen, Yangyang She, Feng Gao, Ying Xu, Jieyu Chen, Xin Gao. [An Interpretable Computer-Aided Diagnosis Method for Periodontitis From Panoramic Radiographs](https://www.frontiersin.org/articles/10.3389/fphys.2021.655556/full). *Frontiers in Physiology*. 2021
+7）Chenlong Li, Hongshan Zheng, Hua Jin, Jinsheng Xiong, **Haoyang Li,** Yuxin Huang, Siqi Ai, Yingjie Wang, Tianqi Su, Guiyin Sun, Xu Xiao, Tianjiao Fu, Yujie Wang, Xin Gao, and Peng Liang. miR-596-3p suppresses brain metastasis of non-small cell lung cancer by modulating YAP1 and IL-8.*Cell Death & Disease*. 2022
 
-5. Longxi Zhou, Zhongxiao Li, Juexiao Zhou<sup>+</sup>, **Haoyang Li<sup>+</sup>**, Yupeng Chen, Yuxin Huang, Dexuan Xie, Lintao Zhao, Ming Fan, Shahrukh Hashmi, Faisal Abdelkareem, Riham Eiada, Xigang Xiao, Lihua Li, Zhaowen Qiu, Xin Gao. [A rapid, accurate and machine-agnostic segmentation and quantification method for CT-based COVID-19 diagnosis](https://ieeexplore.ieee.org/abstract/document/9115057/). *IEEE transactions on medical imaging*. 2020
+6）**Haoyang Li**, Juexiao Zhou, Yi Zhou, Qiang Chen, Yangyang She, Feng Gao, Ying Xu, Jieyu Chen, Xin Gao. [An Interpretable Computer-Aided Diagnosis Method for Periodontitis From Panoramic Radiographs](https://www.frontiersin.org/articles/10.3389/fphys.2021.655556/full). *Frontiers in Physiology*. 2021
 
-4. **Haoyang Li**, Juexiao Zhou, Yi Zhou, Jieyu Chen, Feng Gao, Ying Xu, Xin Gao. [Automatic and interpretable model for periodontitis diagnosis in panoramic radiographs](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_44). *MICCAI 2020*. (Oral)
+5）Longxi Zhou, Zhongxiao Li, Juexiao Zhou<sup>+</sup>, **Haoyang Li<sup>+</sup>**, Yupeng Chen, Yuxin Huang, Dexuan Xie, Lintao Zhao, Ming Fan, Shahrukh Hashmi, Faisal Abdelkareem, Riham Eiada, Xigang Xiao, Lihua Li, Zhaowen Qiu, Xin Gao. [A rapid, accurate and machine-agnostic segmentation and quantification method for CT-based COVID-19 diagnosis](https://ieeexplore.ieee.org/abstract/document/9115057/). *IEEE transactions on medical imaging*. 2020
 
-3. **Haoyang Li<sup>+</sup>**, Shuye Tian<sup>+</sup>, Yu Li<sup>+</sup>, Qiming Fang, Renbo Tan, Yijie Pan, Chao Huang, Ying Xu, Xin Gao. [Modern deep learning in bioinformatics](https://academic.oup.com/jmcb/article-abstract/12/11/823/5861537). *Journal of molecular cell biology*. 2020
+4）**Haoyang Li**, Juexiao Zhou, Yi Zhou, Jieyu Chen, Feng Gao, Ying Xu, Xin Gao. [Automatic and interpretable model for periodontitis diagnosis in panoramic radiographs](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_44). *MICCAI 2020*. (Oral)
 
-2. **Haoyang Li**, Juexiao Zhou, Huiyan Sun, Zhaowen Qiu, Xin Gao, Ying Xu. [CaMeRe: A Novel Tool for Inference of Cancer Metabolic Reprogramming](https://www.frontiersin.org/articles/10.3389/fonc.2020.00207/full). *Frontiers in oncology*. 2020
+3）**Haoyang Li<sup>+</sup>**, Shuye Tian<sup>+</sup>, Yu Li<sup>+</sup>, Qiming Fang, Renbo Tan, Yijie Pan, Chao Huang, Ying Xu, Xin Gao. [Modern deep learning in bioinformatics](https://academic.oup.com/jmcb/article-abstract/12/11/823/5861537). *Journal of molecular cell biology*. 2020
 
-1. Renbo Tan<sup>+</sup>, **Haoyang Li<sup>+</sup>**, Zhenyu Huang, Yi Zhou, Mingxin Tao, Xin Gao, Ying Xu. [Neural functions play different roles in Triple Negative Breast Cancer (TNBC) and non-TNBC](https://www.nature.com/articles/s41598-020-60030-5). *Scientific reports*. 2020
+2）**Haoyang Li**, Juexiao Zhou, Huiyan Sun, Zhaowen Qiu, Xin Gao, Ying Xu. [CaMeRe: A Novel Tool for Inference of Cancer Metabolic Reprogramming](https://www.frontiersin.org/articles/10.3389/fonc.2020.00207/full). *Frontiers in oncology*. 2020
+
+1）Renbo Tan<sup>+</sup>, **Haoyang Li<sup>+</sup>**, Zhenyu Huang, Yi Zhou, Mingxin Tao, Xin Gao, Ying Xu. [Neural functions play different roles in Triple Negative Breast Cancer (TNBC) and non-TNBC](https://www.nature.com/articles/s41598-020-60030-5). *Scientific reports*. 2020
 
 <br>
 
